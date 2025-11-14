@@ -1,0 +1,12 @@
+body{
+color:red;
+background:purple;
+}
+
+.chamada{
+background:blue;
+padding-botton:80px;
+padding-top: 80px;
+display: flex;
+justify-contet: center;
+}
