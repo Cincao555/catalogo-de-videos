@@ -1,10 +1,10 @@
 body{
-color:red;
-background:purple;
+color:rgb(255, 0, 0);
+background:rgb(255, 255, 255);
 }
 
 .chamada{
-background:blue;
+background:rgb(0, 0, 0);
 padding-botton:80px;
 padding-top: 80px;
 display: flex;
